@@ -18,14 +18,14 @@ body:
     validations:
       required: true
   - type: input
-    id: name
+    id: pass
     attributes:
       label: ACR pass-word
       description: Enter ACR password
     validations:
       required: true
   - type: input
-    id: name
+    id: username
     attributes:
       label: ACR username
       description: Enter ACR username
